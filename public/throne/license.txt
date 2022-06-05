@@ -1,0 +1,11 @@
+Model Information:
+* title:	iron throne
+* source:	https://sketchfab.com/3d-models/iron-throne-9b6e0757fcbd4d93b90f76aa9f7763bb
+* author:	Jenna Ward (https://sketchfab.com/Jenna-W)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "iron throne" (https://sketchfab.com/3d-models/iron-throne-9b6e0757fcbd4d93b90f76aa9f7763bb) by Jenna Ward (https://sketchfab.com/Jenna-W) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

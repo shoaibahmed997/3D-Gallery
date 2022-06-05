@@ -1,0 +1,25 @@
+{
+  "short_name": "3d Gallery",
+  "name": "3D Gallery",
+  "icons": [
+    {
+      "src": "logo96.png",
+      "sizes": "96x96 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "logo48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
